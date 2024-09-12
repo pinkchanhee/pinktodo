@@ -1,0 +1,14 @@
+.text {
+    background-color: #fff0f5;
+    padding: 15px 25px;
+    border: 1px solid #ffb6c1;
+    border-radius: 8px;
+    color: #db7093;
+    font-size: 18px;
+    font-weight: 500;
+    font-style: italic;
+    margin-top: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    display: inline-block;
+  }
